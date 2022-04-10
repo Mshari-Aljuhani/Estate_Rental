@@ -1,0 +1,6 @@
+Version: 1.0.1 —-—-DATE:  04-07-2021
+
+1: Updated   : Bootstrap v4.0.0-beta.2 to Bootstrap v4.6.0
+2. Updated   : jquery v1.12.0 to jquery v3.5.1 & Added migrate 3.3.0 JS
+
+---------------------------------------------------
